@@ -1,0 +1,4 @@
+# runtime artefacts
+guard.log
+*.pdb
+*.obj
