@@ -12,6 +12,8 @@ before:  [ ads.raidrive.com 336x280 panel ]
 after:   nothing
 ```
 
+English | [简体中文](README.zh-CN.md)
+
 ## The popup
 
 Measured on RaiDrive Mount 2026.6.25:
